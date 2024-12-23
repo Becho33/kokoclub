@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 133" width="400" height="133">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 100px;fill: #f926f9;font-weight: 400;font-family: "DayPosterBlack", "DayPosterBlack" } 
+	</style>
+	<text id="KOKO" style="transform: matrix(1,0,0,1,27,38)" >
+		<tspan x="0" y="66.7" class="t0">K</tspan><tspan  y="66.7" class="t0">O</tspan><tspan  y="66.7" class="t0">K</tspan><tspan  y="66.7" class="t0">O</tspan><tspan  y="66.7" class="t0">
+</tspan>
+	</text>
+</svg>
